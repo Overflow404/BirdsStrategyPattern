@@ -1,11 +1,20 @@
 # BirdsStrategyPattern
-How to implement strategy pattern in kotlin with a simple example.
+How to implement strategy pattern in kotlin.
 
-Require:
+## Getting Started
+
+`git clone https://github.com/Overflow404/BirdsStrategyPattern`
+
+## Require
 Java JDK and kotlinc compiler.
 
-Compile with: 
+## Compile
 kotlinc *.kt -include-runtime -d birds.jar
 
-Execute with:
-java -jar birds.jar
+## Built With
+
+* [Kotlin](https://kotlinlang.org/) - Language
+
+## Authors
+
+* **Overflow404** 
